@@ -10,7 +10,7 @@ Also [pip](https://pypi.org/project/webdriver-manager/) to intall webdriver-mana
 ```bash
 pip install webdriver-manager
 ```
-## Initialzing
+## Initializing
 ```python
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
